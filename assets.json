@@ -1,0 +1,17 @@
+{
+  "assets": [
+    {"name":"icon_1024","type":"icon","prompt":"App icon, one single glossy 3D golden royal crown resting on a glossy red apple fruit as one merged object, centered, deep navy blue radial gradient background, crisp studio lighting, no text, no scene, no extra objects"},
+    {"name":"bg_loader","type":"bg","prompt":"Vertical 9:16 mobile game loader background, dark royal palace kitchen at night, deep navy blue and black marble, faint warm golden rim light, cinematic, moody, low key, no text, no UI elements"},
+    {"name":"bg_menu","type":"bg","prompt":"Vertical 9:16 mobile game menu background, bright royal palace kitchen, white marble counters, polished golden chutes, bowls of glossy fruit, warm candlelight, vibrant 3D render, no text, no UI elements"},
+    {"name":"bg_game","type":"bg","prompt":"Vertical 9:16 mobile game background, soft blurred dark navy kitchen wall with faint golden bokeh, very low contrast for UI overlay, no text, no UI elements"},
+    {"name":"sprite_crown","type":"sprite","prompt":"One single cute cartoon golden royal crown, centered icon, glossy 3D render, isolated on plain white, no other objects"},
+    {"name":"sprite_basket","type":"sprite","prompt":"One single cute cartoon golden woven royal basket, front view, empty, centered icon, glossy 3D render, isolated on plain white, no other objects"},
+    {"name":"sprite_cherry","type":"sprite","prompt":"One single cute cartoon red cherry fruit, centered icon, glossy 3D render, isolated on plain white, no other objects"},
+    {"name":"sprite_lemon","type":"sprite","prompt":"One single cute cartoon yellow lemon fruit, centered icon, glossy 3D render, isolated on plain white, no other objects"},
+    {"name":"sprite_lime","type":"sprite","prompt":"One single cute cartoon green lime fruit, centered icon, glossy 3D render, isolated on plain white, no other objects"},
+    {"name":"sprite_plum","type":"sprite","prompt":"One single cute cartoon purple plum fruit, centered icon, glossy 3D render, isolated on plain white, no other objects"},
+    {"name":"sprite_grape","type":"sprite","prompt":"One single cute cartoon bunch of blue grapes, centered icon, glossy 3D render, isolated on plain white, no other objects"},
+    {"name":"sprite_dish","type":"sprite","prompt":"One single cute cartoon golden royal dish with a domed lid, centered icon, glossy 3D render, isolated on plain white, no other objects"},
+    {"name":"button_cta","type":"button","prompt":"Horizontal game CTA button background, royal gold gradient, glossy highlight, rounded, no text"}
+  ]
+}

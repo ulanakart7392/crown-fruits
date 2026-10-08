@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Branded native launch window: the frame the capture harness grabs before
+     the JS bundle paints. A flat colour compresses to ~15KB and reads as a
+     blank screenshot; the centred launcher mark makes it real branding. -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/splashBackground" />
+    <item android:gravity="center">
+        <bitmap
+            android:gravity="center"
+            android:src="@mipmap/ic_launcher" />
+    </item>
+</layer-list>
